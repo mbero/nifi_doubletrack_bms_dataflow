@@ -2,29 +2,8 @@
 <template encoding-version="1.0">
   <description></description>
   <groupId>53e0b2ac-015c-1000-dc4b-eb06228b558d</groupId>
-  <name>DoubleTrack_BMS_Dataflow_FINAL.xml</name>
+  <name>DoubleTrack_BMS_Dataflow_FINAL</name>
   <snippet>
-    <connections>
-      <id>8a6cfb3b-dc12-34d1-0000-000000000000</id>
-      <parentGroupId>25324005-e1fa-31b9-0000-000000000000</parentGroupId>
-      <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
-      <backPressureObjectThreshold>10000</backPressureObjectThreshold>
-      <destination>
-        <groupId>25324005-e1fa-31b9-0000-000000000000</groupId>
-        <id>10fae30a-7a04-3e98-0000-000000000000</id>
-        <type>PROCESSOR</type>
-      </destination>
-      <flowFileExpiration>0 sec</flowFileExpiration>
-      <labelIndex>1</labelIndex>
-      <name></name>
-      <selectedRelationships>success</selectedRelationships>
-      <source>
-        <groupId>25324005-e1fa-31b9-0000-000000000000</groupId>
-        <id>184cdccc-b280-3f64-0000-000000000000</id>
-        <type>PROCESSOR</type>
-      </source>
-      <zIndex>0</zIndex>
-    </connections>
     <connections>
       <id>9e175570-cd5a-30ac-0000-000000000000</id>
       <parentGroupId>25324005-e1fa-31b9-0000-000000000000</parentGroupId>
@@ -52,12 +31,12 @@
       <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
       <backPressureObjectThreshold>10000</backPressureObjectThreshold>
       <bends>
-        <x>1281.2662396232035</x>
-        <y>477.87454631038236</y>
+        <x>1008.899418334141</x>
+        <y>72.33477152982914</y>
       </bends>
       <bends>
-        <x>1281.2662396232035</x>
-        <y>527.8745463103824</y>
+        <x>1008.899418334141</x>
+        <y>122.33477152982914</y>
       </bends>
       <destination>
         <groupId>25324005-e1fa-31b9-0000-000000000000</groupId>
@@ -81,12 +60,12 @@
       <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
       <backPressureObjectThreshold>10000</backPressureObjectThreshold>
       <bends>
-        <x>888.0456760640463</x>
-        <y>65.71303431505794</y>
+        <x>2541.030661415609</x>
+        <y>336.3944509407547</y>
       </bends>
       <bends>
-        <x>888.0456760640463</x>
-        <y>115.71303431505794</y>
+        <x>2541.030661415609</x>
+        <y>386.3944509407547</y>
       </bends>
       <destination>
         <groupId>25324005-e1fa-31b9-0000-000000000000</groupId>
@@ -110,12 +89,12 @@
       <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
       <backPressureObjectThreshold>10000</backPressureObjectThreshold>
       <bends>
-        <x>2297.0133737967008</x>
-        <y>40.0</y>
+        <x>1636.4451364920133</x>
+        <y>53.967915649134284</y>
       </bends>
       <bends>
-        <x>2297.0133737967008</x>
-        <y>90.0</y>
+        <x>1636.4451364920133</x>
+        <y>103.96791564913428</y>
       </bends>
       <destination>
         <groupId>25324005-e1fa-31b9-0000-000000000000</groupId>
@@ -139,12 +118,12 @@
       <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
       <backPressureObjectThreshold>10000</backPressureObjectThreshold>
       <bends>
-        <x>1619.2358520757716</x>
-        <y>51.42652027213671</y>
+        <x>1044.7606323492091</x>
+        <y>531.861721077521</y>
       </bends>
       <bends>
-        <x>1619.2358520757716</x>
-        <y>101.42652027213671</y>
+        <x>1044.7606323492091</x>
+        <y>581.861721077521</y>
       </bends>
       <destination>
         <groupId>25324005-e1fa-31b9-0000-000000000000</groupId>
@@ -231,12 +210,12 @@
       <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
       <backPressureObjectThreshold>10000</backPressureObjectThreshold>
       <bends>
-        <x>2352.699969911341</x>
-        <y>736.7204069751454</y>
+        <x>2133.5540958879037</x>
+        <y>523.7157884445921</y>
       </bends>
       <bends>
-        <x>2352.699969911341</x>
-        <y>786.7204069751454</y>
+        <x>2133.5540958879037</x>
+        <y>573.7157884445921</y>
       </bends>
       <destination>
         <groupId>25324005-e1fa-31b9-0000-000000000000</groupId>
@@ -260,12 +239,12 @@
       <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
       <backPressureObjectThreshold>10000</backPressureObjectThreshold>
       <bends>
-        <x>565.2351205389386</x>
-        <y>482.6489731466486</y>
+        <x>461.92359710143865</x>
+        <y>524.7927921160954</y>
       </bends>
       <bends>
-        <x>565.2351205389386</x>
-        <y>532.6489731466486</y>
+        <x>461.92359710143865</x>
+        <y>574.7927921160954</y>
       </bends>
       <destination>
         <groupId>25324005-e1fa-31b9-0000-000000000000</groupId>
@@ -289,12 +268,12 @@
       <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
       <backPressureObjectThreshold>10000</backPressureObjectThreshold>
       <bends>
-        <x>2718.713982846036</x>
-        <y>484.6729534914907</y>
+        <x>2238.1586849944733</x>
+        <y>40.0</y>
       </bends>
       <bends>
-        <x>2718.713982846036</x>
-        <y>534.6729534914907</y>
+        <x>2238.1586849944733</x>
+        <y>90.0</y>
       </bends>
       <destination>
         <groupId>25324005-e1fa-31b9-0000-000000000000</groupId>
@@ -355,38 +334,17 @@
       <zIndex>0</zIndex>
     </connections>
     <connections>
-      <id>41236a0a-7b2b-3578-0000-000000000000</id>
-      <parentGroupId>25324005-e1fa-31b9-0000-000000000000</parentGroupId>
-      <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
-      <backPressureObjectThreshold>10000</backPressureObjectThreshold>
-      <destination>
-        <groupId>25324005-e1fa-31b9-0000-000000000000</groupId>
-        <id>e622373c-df1d-3799-0000-000000000000</id>
-        <type>PROCESSOR</type>
-      </destination>
-      <flowFileExpiration>0 sec</flowFileExpiration>
-      <labelIndex>1</labelIndex>
-      <name></name>
-      <selectedRelationships>success</selectedRelationships>
-      <source>
-        <groupId>25324005-e1fa-31b9-0000-000000000000</groupId>
-        <id>10fae30a-7a04-3e98-0000-000000000000</id>
-        <type>PROCESSOR</type>
-      </source>
-      <zIndex>0</zIndex>
-    </connections>
-    <connections>
       <id>596d4f7a-a48a-338f-0000-000000000000</id>
       <parentGroupId>25324005-e1fa-31b9-0000-000000000000</parentGroupId>
       <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
       <backPressureObjectThreshold>10000</backPressureObjectThreshold>
       <bends>
-        <x>1619.2358520757716</x>
-        <y>51.42652027213671</y>
+        <x>1044.7606323492091</x>
+        <y>531.861721077521</y>
       </bends>
       <bends>
-        <x>1619.2358520757716</x>
-        <y>101.42652027213671</y>
+        <x>1044.7606323492091</x>
+        <y>581.861721077521</y>
       </bends>
       <destination>
         <groupId>25324005-e1fa-31b9-0000-000000000000</groupId>
@@ -404,12 +362,54 @@
       </source>
       <zIndex>0</zIndex>
     </connections>
+    <connections>
+      <id>6181d8e3-190f-3c30-0000-000000000000</id>
+      <parentGroupId>25324005-e1fa-31b9-0000-000000000000</parentGroupId>
+      <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
+      <backPressureObjectThreshold>10000</backPressureObjectThreshold>
+      <destination>
+        <groupId>25324005-e1fa-31b9-0000-000000000000</groupId>
+        <id>10fae30a-7a04-3e98-0000-000000000000</id>
+        <type>PROCESSOR</type>
+      </destination>
+      <flowFileExpiration>0 sec</flowFileExpiration>
+      <labelIndex>1</labelIndex>
+      <name></name>
+      <selectedRelationships>merged</selectedRelationships>
+      <source>
+        <groupId>25324005-e1fa-31b9-0000-000000000000</groupId>
+        <id>0293a376-390e-3166-0000-000000000000</id>
+        <type>PROCESSOR</type>
+      </source>
+      <zIndex>0</zIndex>
+    </connections>
+    <connections>
+      <id>6e9d74eb-2692-3e05-0000-000000000000</id>
+      <parentGroupId>25324005-e1fa-31b9-0000-000000000000</parentGroupId>
+      <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
+      <backPressureObjectThreshold>10000</backPressureObjectThreshold>
+      <destination>
+        <groupId>25324005-e1fa-31b9-0000-000000000000</groupId>
+        <id>e622373c-df1d-3799-0000-000000000000</id>
+        <type>PROCESSOR</type>
+      </destination>
+      <flowFileExpiration>0 sec</flowFileExpiration>
+      <labelIndex>1</labelIndex>
+      <name></name>
+      <selectedRelationships>success</selectedRelationships>
+      <source>
+        <groupId>25324005-e1fa-31b9-0000-000000000000</groupId>
+        <id>184cdccc-b280-3f64-0000-000000000000</id>
+        <type>PROCESSOR</type>
+      </source>
+      <zIndex>0</zIndex>
+    </connections>
     <processors>
       <id>e622373c-df1d-3799-0000-000000000000</id>
       <parentGroupId>25324005-e1fa-31b9-0000-000000000000</parentGroupId>
       <position>
-        <x>826.2662396232035</x>
-        <y>437.87454631038236</y>
+        <x>553.899418334141</x>
+        <y>32.33477152982914</y>
       </position>
       <config>
         <bulletinLevel>WARN</bulletinLevel>
@@ -483,8 +483,8 @@
       <id>0293a376-390e-3166-0000-000000000000</id>
       <parentGroupId>25324005-e1fa-31b9-0000-000000000000</parentGroupId>
       <position>
-        <x>2263.713982846036</x>
-        <y>444.6729534914907</y>
+        <x>1783.1586849944733</x>
+        <y>0.0</y>
       </position>
       <config>
         <bulletinLevel>WARN</bulletinLevel>
@@ -609,15 +609,15 @@
           </entry>
           <entry>
             <key>Minimum Number of Entries</key>
-            <value>30</value>
+            <value>100</value>
           </entry>
           <entry>
             <key>Maximum Number of Entries</key>
-            <value>1000</value>
+            <value>10000</value>
           </entry>
           <entry>
             <key>Minimum Group Size</key>
-            <value>10000B</value>
+            <value>100000B</value>
           </entry>
           <entry>
             <key>Maximum Group Size</key>
@@ -676,8 +676,8 @@
       <id>10fae30a-7a04-3e98-0000-000000000000</id>
       <parentGroupId>25324005-e1fa-31b9-0000-000000000000</parentGroupId>
       <position>
-        <x>433.04567606404635</x>
-        <y>25.71303431505794</y>
+        <x>2086.030661415609</x>
+        <y>296.3944509407547</y>
       </position>
       <config>
         <bulletinLevel>WARN</bulletinLevel>
@@ -838,7 +838,7 @@
         <name>failure</name>
       </relationships>
       <relationships>
-        <autoTerminate>false</autoTerminate>
+        <autoTerminate>true</autoTerminate>
         <name>success</name>
       </relationships>
       <style></style>
@@ -848,8 +848,8 @@
       <id>184cdccc-b280-3f64-0000-000000000000</id>
       <parentGroupId>25324005-e1fa-31b9-0000-000000000000</parentGroupId>
       <position>
-        <x>110.2351205389391</x>
-        <y>442.6489731466486</y>
+        <x>6.9235971014391</x>
+        <y>484.79279211609537</y>
       </position>
       <config>
         <bulletinLevel>WARN</bulletinLevel>
@@ -1020,8 +1020,8 @@
       <id>31764f30-cb3a-366f-0000-000000000000</id>
       <parentGroupId>25324005-e1fa-31b9-0000-000000000000</parentGroupId>
       <position>
-        <x>1842.0133737967008</x>
-        <y>0.0</y>
+        <x>1181.4451364920133</x>
+        <y>13.967915649134284</y>
       </position>
       <config>
         <bulletinLevel>WARN</bulletinLevel>
@@ -1117,7 +1117,7 @@
       <parentGroupId>25324005-e1fa-31b9-0000-000000000000</parentGroupId>
       <position>
         <x>0.0</x>
-        <y>51.327374863761634</y>
+        <y>35.55407957539592</y>
       </position>
       <config>
         <bulletinLevel>WARN</bulletinLevel>
@@ -1255,8 +1255,8 @@
       <id>5abfed11-8472-3914-0000-000000000000</id>
       <parentGroupId>25324005-e1fa-31b9-0000-000000000000</parentGroupId>
       <position>
-        <x>1441.2779331604797</x>
-        <y>453.5732355879645</y>
+        <x>1184.5644321839172</x>
+        <y>492.5865613933488</y>
       </position>
       <config>
         <bulletinLevel>WARN</bulletinLevel>
@@ -1305,8 +1305,8 @@
       <id>5f428237-a01f-3163-0000-000000000000</id>
       <parentGroupId>25324005-e1fa-31b9-0000-000000000000</parentGroupId>
       <position>
-        <x>1897.6999699113412</x>
-        <y>696.7204069751454</y>
+        <x>1678.5540958879037</x>
+        <y>483.71578844459214</y>
       </position>
       <config>
         <bulletinLevel>WARN</bulletinLevel>
@@ -1472,8 +1472,8 @@
       <id>7472a284-85c0-32c5-0000-000000000000</id>
       <parentGroupId>25324005-e1fa-31b9-0000-000000000000</parentGroupId>
       <position>
-        <x>1164.2358520757716</x>
-        <y>11.426520272136713</y>
+        <x>589.7606323492091</x>
+        <y>491.861721077521</y>
       </position>
       <config>
         <bulletinLevel>WARN</bulletinLevel>
@@ -1598,5 +1598,5 @@
       <type>org.apache.nifi.processors.standard.EvaluateJsonPath</type>
     </processors>
   </snippet>
-  <timestamp>08/16/2017 20:55:10 CEST</timestamp>
+  <timestamp>08/20/2017 14:27:39 CEST</timestamp>
 </template>
